@@ -1,0 +1,5383 @@
+{
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 100,
+    "total": 10000
+  },
+  "data": [
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T03:25:00+00:00",
+        "estimated": "2026-07-07T03:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Beijing Capital International",
+        "timezone": "Asia/Shanghai",
+        "iata": "PEK",
+        "icao": "ZBAA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T06:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "DHL Air",
+        "iata": "D0",
+        "icao": "DHK"
+      },
+      "flight": {
+        "number": "768",
+        "iata": "D0768",
+        "icao": "DHK768",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "789279"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T03:20:00+00:00",
+        "estimated": "2026-07-07T03:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T07:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "DHL Air",
+        "iata": "D0",
+        "icao": "DHK"
+      },
+      "flight": {
+        "number": "128",
+        "iata": "D0128",
+        "icao": "DHK128",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "789278"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Lech Walesa",
+        "timezone": "Europe/Warsaw",
+        "iata": "GDN",
+        "icao": "EPGD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T00:40:00+00:00",
+        "estimated": "2026-07-07T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Antalya",
+        "timezone": "Europe/Istanbul",
+        "iata": "AYT",
+        "icao": "LTAI",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T04:51:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Pegasus",
+        "iata": "PC",
+        "icao": "PGT"
+      },
+      "flight": {
+        "number": "6272",
+        "iata": "PC6272",
+        "icao": "PGT6272",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4BB861"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Darwin",
+        "timezone": "Australia/Darwin",
+        "iata": "DRW",
+        "icao": "YPDN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T05:00:00+00:00",
+        "estimated": "2026-07-07T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Mungalalu Truscott Airbase",
+        "timezone": null,
+        "iata": "TTX",
+        "icao": "YTST",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T04:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Airnorth",
+        "iata": "TL",
+        "icao": "ANO"
+      },
+      "flight": {
+        "number": "960",
+        "iata": "TL960",
+        "icao": "ANO960",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "7C01DE"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "E2",
+        "delay": null,
+        "scheduled": "2026-07-07T01:00:00+00:00",
+        "estimated": "2026-07-07T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T06:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "RwandAir",
+        "iata": "WB",
+        "icao": "RWD"
+      },
+      "flight": {
+        "number": "1407",
+        "iata": "WB1407",
+        "icao": "RWD1407",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "19",
+          "flight_iata": "qr19",
+          "flight_icao": "qtr19"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "06A2EE"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "E2",
+        "delay": null,
+        "scheduled": "2026-07-07T01:00:00+00:00",
+        "estimated": "2026-07-07T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T06:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SriLankan Airlines",
+        "iata": "UL",
+        "icao": "ALK"
+      },
+      "flight": {
+        "number": "3013",
+        "iata": "UL3013",
+        "icao": "ALK3013",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "19",
+          "flight_iata": "qr19",
+          "flight_icao": "qtr19"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "06A2EE"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "E2",
+        "delay": null,
+        "scheduled": "2026-07-07T01:00:00+00:00",
+        "estimated": "2026-07-07T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T06:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Philippine Airlines",
+        "iata": "PR",
+        "icao": "PAL"
+      },
+      "flight": {
+        "number": "3476",
+        "iata": "PR3476",
+        "icao": "PAL3476",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "19",
+          "flight_iata": "qr19",
+          "flight_icao": "qtr19"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "06A2EE"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "E2",
+        "delay": null,
+        "scheduled": "2026-07-07T01:00:00+00:00",
+        "estimated": "2026-07-07T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T06:45:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Virgin Australia",
+        "iata": "VA",
+        "icao": "VOZ"
+      },
+      "flight": {
+        "number": "6153",
+        "iata": "VA6153",
+        "icao": "VOZ6153",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "19",
+          "flight_iata": "qr19",
+          "flight_icao": "qtr19"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "06A2EE"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Dalma Airport",
+        "timezone": null,
+        "iata": "DLM",
+        "icao": "LTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T03:30:00+00:00",
+        "estimated": "2026-07-07T03:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "International Airport Chisinau",
+        "timezone": "Europe/Chisinau",
+        "iata": "RMO",
+        "icao": "LUKK",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T05:40:00+00:00",
+        "delay": 12,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SkyUp Airlines",
+        "iata": "PQ",
+        "icao": "SQP"
+      },
+      "flight": {
+        "number": "4708",
+        "iata": "PQ4708",
+        "icao": "SQP4708",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "504E88"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Shuangliu",
+        "timezone": "Asia/Shanghai",
+        "iata": "CTU",
+        "icao": "ZUUU",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T04:00:00+00:00",
+        "estimated": "2026-07-07T04:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T09:00:00+00:00",
+        "delay": 125,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air China Cargo",
+        "iata": "CAO",
+        "icao": "CAO"
+      },
+      "flight": {
+        "number": "3143",
+        "iata": "CAO3143",
+        "icao": "CAO3143",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "78044E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:35:00+00:00",
+        "estimated": "2026-07-07T07:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T12:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SriLankan Airlines",
+        "iata": "UL",
+        "icao": "ALK"
+      },
+      "flight": {
+        "number": "404",
+        "iata": "UL404",
+        "icao": "ALK404",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:35:00+00:00",
+        "estimated": "2026-07-07T07:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T12:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air Seychelles",
+        "iata": "HM",
+        "icao": "SEY"
+      },
+      "flight": {
+        "number": "6224",
+        "iata": "HM6224",
+        "icao": "SEY6224",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "404",
+          "flight_iata": "ul404",
+          "flight_icao": "alk404"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:35:00+00:00",
+        "estimated": "2026-07-07T07:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T12:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Myanmar Airways International",
+        "iata": "8M",
+        "icao": "MMA"
+      },
+      "flight": {
+        "number": "5404",
+        "iata": "8M5404",
+        "icao": "MMA5404",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "404",
+          "flight_iata": "ul404",
+          "flight_icao": "alk404"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:35:00+00:00",
+        "estimated": "2026-07-07T07:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T12:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "4242",
+        "iata": "QF4242",
+        "icao": "QFA4242",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "404",
+          "flight_iata": "ul404",
+          "flight_icao": "alk404"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:35:00+00:00",
+        "estimated": "2026-07-07T07:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T12:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Finnair",
+        "iata": "AY",
+        "icao": "FIN"
+      },
+      "flight": {
+        "number": "6644",
+        "iata": "AY6644",
+        "icao": "FIN6644",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "404",
+          "flight_iata": "ul404",
+          "flight_icao": "alk404"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:30:00+00:00",
+        "estimated": "2026-07-07T07:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Batticaloa",
+        "timezone": "Asia/Colombo",
+        "iata": "BTC",
+        "icao": "VCCB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cinnamon Air",
+        "iata": "C7",
+        "icao": "CIN"
+      },
+      "flight": {
+        "number": "9407",
+        "iata": "C79407",
+        "icao": "CIN9407",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:25:00+00:00",
+        "estimated": "2026-07-07T07:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Madras International (Meenambakkam)",
+        "timezone": "Asia/Kolkata",
+        "iata": "MAA",
+        "icao": "VOMM",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SriLankan Airlines",
+        "iata": "UL",
+        "icao": "ALK"
+      },
+      "flight": {
+        "number": "121",
+        "iata": "UL121",
+        "icao": "ALK121",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:25:00+00:00",
+        "estimated": "2026-07-07T07:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Madras International (Meenambakkam)",
+        "timezone": "Asia/Kolkata",
+        "iata": "MAA",
+        "icao": "VOMM",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air India",
+        "iata": "AI",
+        "icao": "AIC"
+      },
+      "flight": {
+        "number": "6213",
+        "iata": "AI6213",
+        "icao": "AIC6213",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "121",
+          "flight_iata": "ul121",
+          "flight_icao": "alk121"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:20:00+00:00",
+        "estimated": "2026-07-07T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SriLankan Airlines",
+        "iata": "UL",
+        "icao": "ALK"
+      },
+      "flight": {
+        "number": "101",
+        "iata": "UL101",
+        "icao": "ALK101",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:20:00+00:00",
+        "estimated": "2026-07-07T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air Seychelles",
+        "iata": "HM",
+        "icao": "SEY"
+      },
+      "flight": {
+        "number": "6202",
+        "iata": "HM6202",
+        "icao": "SEY6202",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "101",
+          "flight_iata": "ul101",
+          "flight_icao": "alk101"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:20:00+00:00",
+        "estimated": "2026-07-07T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air India",
+        "iata": "AI",
+        "icao": "AIC"
+      },
+      "flight": {
+        "number": "6201",
+        "iata": "AI6201",
+        "icao": "AIC6201",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "101",
+          "flight_iata": "ul101",
+          "flight_icao": "alk101"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:20:00+00:00",
+        "estimated": "2026-07-07T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Kuwait Airways",
+        "iata": "KU",
+        "icao": "KAC"
+      },
+      "flight": {
+        "number": "6004",
+        "iata": "KU6004",
+        "icao": "KAC6004",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "101",
+          "flight_iata": "ul101",
+          "flight_icao": "alk101"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:20:00+00:00",
+        "estimated": "2026-07-07T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "4918",
+        "iata": "QR4918",
+        "icao": "QTR4918",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "101",
+          "flight_iata": "ul101",
+          "flight_icao": "alk101"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:20:00+00:00",
+        "estimated": "2026-07-07T07:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Malaysia Airlines",
+        "iata": "MH",
+        "icao": "MAS"
+      },
+      "flight": {
+        "number": "9017",
+        "iata": "MH9017",
+        "icao": "MAS9017",
+        "codeshared": {
+          "airline_name": "srilankan airlines",
+          "airline_iata": "ul",
+          "airline_icao": "alk",
+          "flight_number": "101",
+          "flight_iata": "ul101",
+          "flight_icao": "alk101"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:01:00+00:00",
+        "estimated": "2026-07-07T07:01:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "FitsAir",
+        "iata": "8D",
+        "icao": "EXV"
+      },
+      "flight": {
+        "number": "921",
+        "iata": "8D921",
+        "icao": "EXV921",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:01:00+00:00",
+        "estimated": "2026-07-07T07:01:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": null,
+        "iata": "A1",
+        "icao": "A1"
+      },
+      "flight": {
+        "number": "5193",
+        "iata": "A15193",
+        "icao": "A15193",
+        "codeshared": {
+          "airline_name": "fitsair",
+          "airline_iata": "8d",
+          "airline_icao": "exv",
+          "flight_number": "921",
+          "flight_iata": "8d921",
+          "flight_icao": "exv921"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:01:00+00:00",
+        "estimated": "2026-07-07T07:01:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": null,
+        "iata": "X1",
+        "icao": "X1"
+      },
+      "flight": {
+        "number": "459",
+        "iata": "X1459",
+        "icao": "X1459",
+        "codeshared": {
+          "airline_name": "fitsair",
+          "airline_iata": "8d",
+          "airline_icao": "exv",
+          "flight_number": "921",
+          "flight_iata": "8d921",
+          "flight_icao": "exv921"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:01:00+00:00",
+        "estimated": "2026-07-07T07:01:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Flexflight",
+        "iata": "W2",
+        "icao": "FXT"
+      },
+      "flight": {
+        "number": "1841",
+        "iata": "W21841",
+        "icao": "FXT1841",
+        "codeshared": {
+          "airline_name": "fitsair",
+          "airline_iata": "8d",
+          "airline_icao": "exv",
+          "flight_number": "921",
+          "flight_iata": "8d921",
+          "flight_icao": "exv921"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:50:00+00:00",
+        "estimated": "2026-07-07T06:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T12:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+      },
+      "flight": {
+        "number": "731",
+        "iata": "TK731",
+        "icao": "THY731",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D20",
+        "delay": null,
+        "scheduled": "2026-07-07T14:00:00+00:00",
+        "estimated": "2026-07-07T14:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "30",
+        "baggage": "2",
+        "scheduled": "2026-07-07T15:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Etihad Airways",
+        "iata": "EY",
+        "icao": "ETD"
+      },
+      "flight": {
+        "number": "4552",
+        "iata": "EY4552",
+        "icao": "ETD4552",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "550",
+          "flight_iata": "nz550",
+          "flight_icao": "anz550"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C822E4"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D20",
+        "delay": null,
+        "scheduled": "2026-07-07T14:00:00+00:00",
+        "estimated": "2026-07-07T14:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "30",
+        "baggage": "2",
+        "scheduled": "2026-07-07T15:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air China",
+        "iata": "CA",
+        "icao": "CCA"
+      },
+      "flight": {
+        "number": "5913",
+        "iata": "CA5913",
+        "icao": "CCA5913",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "550",
+          "flight_iata": "nz550",
+          "flight_icao": "anz550"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C822E4"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D20",
+        "delay": null,
+        "scheduled": "2026-07-07T14:00:00+00:00",
+        "estimated": "2026-07-07T14:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "30",
+        "baggage": "2",
+        "scheduled": "2026-07-07T15:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "EVA Air",
+        "iata": "BR",
+        "icao": "EVA"
+      },
+      "flight": {
+        "number": "3230",
+        "iata": "BR3230",
+        "icao": "EVA3230",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "550",
+          "flight_iata": "nz550",
+          "flight_icao": "anz550"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C822E4"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D21",
+        "delay": null,
+        "scheduled": "2026-07-07T13:50:00+00:00",
+        "estimated": "2026-07-07T13:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "23",
+        "baggage": "1",
+        "scheduled": "2026-07-07T15:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "5762",
+        "iata": "QF5762",
+        "icao": "QFA5762",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "236",
+          "flight_iata": "jq236",
+          "flight_icao": "jst236"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D21",
+        "delay": null,
+        "scheduled": "2026-07-07T13:50:00+00:00",
+        "estimated": "2026-07-07T13:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "23",
+        "baggage": "1",
+        "scheduled": "2026-07-07T15:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5676",
+        "iata": "LA5676",
+        "icao": "LAN5676",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "236",
+          "flight_iata": "jq236",
+          "flight_icao": "jst236"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D21",
+        "delay": null,
+        "scheduled": "2026-07-07T13:50:00+00:00",
+        "estimated": "2026-07-07T13:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "23",
+        "baggage": "1",
+        "scheduled": "2026-07-07T15:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Fiji Airways",
+        "iata": "FJ",
+        "icao": "FJI"
+      },
+      "flight": {
+        "number": "5522",
+        "iata": "FJ5522",
+        "icao": "FJI5522",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "236",
+          "flight_iata": "jq236",
+          "flight_icao": "jst236"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D21",
+        "delay": null,
+        "scheduled": "2026-07-07T13:50:00+00:00",
+        "estimated": "2026-07-07T13:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "23",
+        "baggage": "1",
+        "scheduled": "2026-07-07T15:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      },
+      "flight": {
+        "number": "7536",
+        "iata": "EK7536",
+        "icao": "UAE7536",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "236",
+          "flight_iata": "jq236",
+          "flight_icao": "jst236"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D8",
+        "delay": null,
+        "scheduled": "2026-07-07T13:40:00+00:00",
+        "estimated": "2026-07-07T13:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Tauranga",
+        "timezone": "Pacific/Auckland",
+        "iata": "TRG",
+        "icao": "NZTG",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T15:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "4536",
+        "iata": "SQ4536",
+        "icao": "SIA4536",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "5802",
+          "flight_iata": "nz5802",
+          "flight_icao": "anz5802"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C82836"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D8",
+        "delay": null,
+        "scheduled": "2026-07-07T13:40:00+00:00",
+        "estimated": "2026-07-07T13:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Tauranga",
+        "timezone": "Pacific/Auckland",
+        "iata": "TRG",
+        "icao": "NZTG",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T15:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "8578",
+        "iata": "QF8578",
+        "icao": "QFA8578",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "5802",
+          "flight_iata": "nz5802",
+          "flight_icao": "anz5802"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C82836"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D12",
+        "delay": null,
+        "scheduled": "2026-07-07T13:35:00+00:00",
+        "estimated": "2026-07-07T13:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hawkes Bay",
+        "timezone": "Pacific/Auckland",
+        "iata": "NPE",
+        "icao": "NZNR",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T15:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "4516",
+        "iata": "SQ4516",
+        "icao": "SIA4516",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "5774",
+          "flight_iata": "nz5774",
+          "flight_icao": "anz5774"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C821BA"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D12",
+        "delay": null,
+        "scheduled": "2026-07-07T13:35:00+00:00",
+        "estimated": "2026-07-07T13:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hawkes Bay",
+        "timezone": "Pacific/Auckland",
+        "iata": "NPE",
+        "icao": "NZNR",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T15:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "8581",
+        "iata": "QF8581",
+        "icao": "QFA8581",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "5774",
+          "flight_iata": "nz5774",
+          "flight_icao": "anz5774"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C821BA"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D19",
+        "delay": null,
+        "scheduled": "2026-07-07T13:30:00+00:00",
+        "estimated": "2026-07-07T13:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hamilton",
+        "timezone": "Pacific/Auckland",
+        "iata": "HLZ",
+        "icao": "NZHN",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T14:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "4508",
+        "iata": "SQ4508",
+        "icao": "SIA4508",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "324",
+          "flight_iata": "nz324",
+          "flight_icao": "anz324"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C820B6"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D8",
+        "delay": null,
+        "scheduled": "2026-07-07T13:25:00+00:00",
+        "estimated": "2026-07-07T13:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Palmerston North",
+        "timezone": "Pacific/Auckland",
+        "iata": "PMR",
+        "icao": "NZPM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T14:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "4528",
+        "iata": "SQ4528",
+        "icao": "SIA4528",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "5176",
+          "flight_iata": "nz5176",
+          "flight_icao": "anz5176"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C82810"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D15",
+        "delay": null,
+        "scheduled": "2026-07-07T13:15:00+00:00",
+        "estimated": "2026-07-07T13:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Wellington International",
+        "timezone": "Pacific/Auckland",
+        "iata": "WLG",
+        "icao": "NZWN",
+        "terminal": null,
+        "gate": "18",
+        "baggage": null,
+        "scheduled": "2026-07-07T14:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Etihad Airways",
+        "iata": "EY",
+        "icao": "ETD"
+      },
+      "flight": {
+        "number": "4545",
+        "iata": "EY4545",
+        "icao": "ETD4545",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "5356",
+          "flight_iata": "nz5356",
+          "flight_icao": "anz5356"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C8276B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2026-07-07T12:55:00+00:00",
+        "estimated": "2026-07-07T12:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "24",
+        "baggage": "1",
+        "scheduled": "2026-07-07T14:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "5601",
+        "iata": "QF5601",
+        "icao": "QFA5601",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "246",
+          "flight_iata": "jq246",
+          "flight_icao": "jst246"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2026-07-07T12:55:00+00:00",
+        "estimated": "2026-07-07T12:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "24",
+        "baggage": "1",
+        "scheduled": "2026-07-07T14:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5677",
+        "iata": "LA5677",
+        "icao": "LAN5677",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "246",
+          "flight_iata": "jq246",
+          "flight_icao": "jst246"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2026-07-07T12:55:00+00:00",
+        "estimated": "2026-07-07T12:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "24",
+        "baggage": "1",
+        "scheduled": "2026-07-07T14:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      },
+      "flight": {
+        "number": "7564",
+        "iata": "EK7564",
+        "icao": "UAE7564",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "246",
+          "flight_iata": "jq246",
+          "flight_icao": "jst246"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Zhengzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "CGO",
+        "icao": "ZHCC",
+        "terminal": "2",
+        "gate": "202",
+        "delay": null,
+        "scheduled": "2026-07-07T07:10:00+00:00",
+        "estimated": "2026-07-07T07:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Korla",
+        "timezone": "Asia/Shanghai",
+        "iata": "KRL",
+        "icao": "ZWKL",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T11:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "West Air",
+        "iata": "PN",
+        "icao": "CHB"
+      },
+      "flight": {
+        "number": "6309",
+        "iata": "PN6309",
+        "icao": "CHB6309",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "782370"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cologne/bonn",
+        "timezone": "Europe/Berlin",
+        "iata": "CGN",
+        "icao": "EDDK",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T04:00:00+00:00",
+        "estimated": "2026-07-07T04:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Larnaca",
+        "timezone": "Asia/Nicosia",
+        "iata": "LCA",
+        "icao": "LCLK",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Bridges Air Cargo",
+        "iata": "5B",
+        "icao": "BRD"
+      },
+      "flight": {
+        "number": "140",
+        "iata": "5B140",
+        "icao": "BRD140",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4D2159"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2026-07-07T05:00:00+00:00",
+        "estimated": "2026-07-07T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T07:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Virgin Atlantic",
+        "iata": "VS",
+        "icao": "VIR"
+      },
+      "flight": {
+        "number": "8726",
+        "iata": "VS8726",
+        "icao": "VIR8726",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "449",
+          "flight_iata": "6e449",
+          "flight_icao": "igo449"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80177D"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2026-07-07T05:00:00+00:00",
+        "estimated": "2026-07-07T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T07:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "5267",
+        "iata": "QF5267",
+        "icao": "QFA5267",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "449",
+          "flight_iata": "6e449",
+          "flight_icao": "igo449"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80177D"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2026-07-07T05:00:00+00:00",
+        "estimated": "2026-07-07T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T07:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      },
+      "flight": {
+        "number": "3657",
+        "iata": "KL3657",
+        "icao": "KLM3657",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "449",
+          "flight_iata": "6e449",
+          "flight_icao": "igo449"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80177D"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2026-07-07T05:00:00+00:00",
+        "estimated": "2026-07-07T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T07:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Japan Airlines",
+        "iata": "JL",
+        "icao": "JTL"
+      },
+      "flight": {
+        "number": "9227",
+        "iata": "JL9227",
+        "icao": "JTL9227",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "449",
+          "flight_iata": "6e449",
+          "flight_icao": "igo449"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80177D"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2026-07-07T05:00:00+00:00",
+        "estimated": "2026-07-07T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T07:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "British Airways",
+        "iata": "BA",
+        "icao": "BAW"
+      },
+      "flight": {
+        "number": "7981",
+        "iata": "BA7981",
+        "icao": "BAW7981",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "449",
+          "flight_iata": "6e449",
+          "flight_icao": "igo449"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80177D"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Sydney Kingsford Smith Airport",
+        "timezone": "Australia/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:00:00+00:00",
+        "estimated": "2026-07-07T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Brisbane International",
+        "timezone": "Australia/Brisbane",
+        "iata": "BNE",
+        "icao": "YBBN",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "ASL Airlines",
+        "iata": "5H",
+        "icao": "ABR"
+      },
+      "flight": {
+        "number": "7229",
+        "iata": "5H7229",
+        "icao": "ABR7229",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "7C5B29"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:35:00+00:00",
+        "estimated": "2026-07-07T07:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sanganeer",
+        "timezone": "Asia/Kolkata",
+        "iata": "JAI",
+        "icao": "VIJP",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T09:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air India",
+        "iata": "AI",
+        "icao": "AIC"
+      },
+      "flight": {
+        "number": "9716",
+        "iata": "AI9716",
+        "icao": "AIC9716",
+        "codeshared": {
+          "airline_name": "air india express",
+          "airline_iata": "ix",
+          "airline_icao": "axb",
+          "flight_number": "1280",
+          "flight_iata": "ix1280",
+          "flight_icao": "axb1280"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "801623"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:30:00+00:00",
+        "estimated": "2026-07-07T07:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Bhopal",
+        "timezone": "Asia/Kolkata",
+        "iata": "BHO",
+        "icao": "VABP",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T09:00:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Virgin Atlantic",
+        "iata": "VS",
+        "icao": "VIR"
+      },
+      "flight": {
+        "number": "8490",
+        "iata": "VS8490",
+        "icao": "VIR8490",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "6128",
+          "flight_iata": "6e6128",
+          "flight_icao": "igo6128"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "801678"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:30:00+00:00",
+        "estimated": "2026-07-07T07:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Bhopal",
+        "timezone": "Asia/Kolkata",
+        "iata": "BHO",
+        "icao": "VABP",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T09:00:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "6077",
+        "iata": "AF6077",
+        "icao": "AFR6077",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "6128",
+          "flight_iata": "6e6128",
+          "flight_icao": "igo6128"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "801678"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:30:00+00:00",
+        "estimated": "2026-07-07T06:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Thiruvananthapuram International",
+        "timezone": "Asia/Kolkata",
+        "iata": "TRV",
+        "icao": "VOTV",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Ethiopian Airlines",
+        "iata": "ET",
+        "icao": "ETH"
+      },
+      "flight": {
+        "number": "4411",
+        "iata": "ET4411",
+        "icao": "ETH4411",
+        "codeshared": {
+          "airline_name": "air india",
+          "airline_iata": "ai",
+          "airline_icao": "aic",
+          "flight_number": "2605",
+          "flight_iata": "ai2605",
+          "flight_icao": "aic2605"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "801534"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:10:00+00:00",
+        "estimated": "2026-07-07T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:45:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      },
+      "flight": {
+        "number": "4510",
+        "iata": "KL4510",
+        "icao": "KLM4510",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "1185",
+          "flight_iata": "6e1185",
+          "flight_icao": "igo1185"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "801470"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:10:00+00:00",
+        "estimated": "2026-07-07T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Bandaranaike International",
+        "timezone": "Asia/Colombo",
+        "iata": "CMB",
+        "icao": "VCBI",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:45:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "6487",
+        "iata": "AF6487",
+        "icao": "AFR6487",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "1185",
+          "flight_iata": "6e1185",
+          "flight_icao": "igo1185"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "801470"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:00:00+00:00",
+        "estimated": "2026-07-07T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "05",
+        "scheduled": "2026-07-07T08:10:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Virgin Atlantic",
+        "iata": "VS",
+        "icao": "VIR"
+      },
+      "flight": {
+        "number": "8527",
+        "iata": "VS8527",
+        "icao": "VIR8527",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "762",
+          "flight_iata": "6e762",
+          "flight_icao": "igo762"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80180B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:00:00+00:00",
+        "estimated": "2026-07-07T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "05",
+        "scheduled": "2026-07-07T08:10:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "5292",
+        "iata": "QF5292",
+        "icao": "QFA5292",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "762",
+          "flight_iata": "6e762",
+          "flight_icao": "igo762"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80180B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:00:00+00:00",
+        "estimated": "2026-07-07T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "05",
+        "scheduled": "2026-07-07T08:10:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      },
+      "flight": {
+        "number": "4300",
+        "iata": "KL4300",
+        "icao": "KLM4300",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "762",
+          "flight_iata": "6e762",
+          "flight_icao": "igo762"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80180B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:00:00+00:00",
+        "estimated": "2026-07-07T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "05",
+        "scheduled": "2026-07-07T08:10:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Japan Airlines",
+        "iata": "JL",
+        "icao": "JTL"
+      },
+      "flight": {
+        "number": "8462",
+        "iata": "JL8462",
+        "icao": "JTL8462",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "762",
+          "flight_iata": "6e762",
+          "flight_icao": "igo762"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80180B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T06:00:00+00:00",
+        "estimated": "2026-07-07T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "05",
+        "scheduled": "2026-07-07T08:10:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "6451",
+        "iata": "AF6451",
+        "icao": "AFR6451",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "762",
+          "flight_iata": "6e762",
+          "flight_icao": "igo762"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80180B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T05:55:00+00:00",
+        "estimated": "2026-07-07T05:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Birsa Munda International",
+        "timezone": "Asia/Kolkata",
+        "iata": "IXR",
+        "icao": "VERC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air India",
+        "iata": "AI",
+        "icao": "AIC"
+      },
+      "flight": {
+        "number": "9688",
+        "iata": "AI9688",
+        "icao": "AIC9688",
+        "codeshared": {
+          "airline_name": "air india express",
+          "airline_iata": "ix",
+          "airline_icao": "axb",
+          "flight_number": "1237",
+          "flight_iata": "ix1237",
+          "flight_icao": "axb1237"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "801685"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T05:50:00+00:00",
+        "estimated": "2026-07-07T05:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dar Es Salam International Airport",
+        "timezone": "Africa/Dar_es_Salaam",
+        "iata": "DAR",
+        "icao": "HTDA",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T09:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": null,
+        "iata": "H1",
+        "icao": "H1"
+      },
+      "flight": {
+        "number": "3678",
+        "iata": "H13678",
+        "icao": "H13678",
+        "codeshared": {
+          "airline_name": "air tanzania",
+          "airline_iata": "tc",
+          "airline_icao": "atc",
+          "flight_number": "401",
+          "flight_iata": "tc401",
+          "flight_icao": "atc401"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Brisbane International",
+        "timezone": "Australia/Brisbane",
+        "iata": "BNE",
+        "icao": "YBBN",
+        "terminal": "D",
+        "gate": "16",
+        "delay": null,
+        "scheduled": "2026-07-07T06:25:00+00:00",
+        "estimated": "2026-07-07T06:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Adelaide International Airport",
+        "timezone": "Australia/Adelaide",
+        "iata": "ADL",
+        "icao": "YPAD",
+        "terminal": "1",
+        "gate": "24",
+        "baggage": null,
+        "scheduled": "2026-07-07T08:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Alliance Airlines",
+        "iata": "QQ",
+        "icao": "UTY"
+      },
+      "flight": {
+        "number": "1801",
+        "iata": "QQ1801",
+        "icao": "UTY1801",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "7C68A2"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cairns",
+        "timezone": "Australia/Brisbane",
+        "iata": "CNS",
+        "icao": "YBCS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:00:00+00:00",
+        "estimated": "2026-07-07T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": null,
+        "timezone": null,
+        "iata": "LNV",
+        "icao": "AYKY",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T10:27:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "empty",
+        "iata": null,
+        "icao": null
+      },
+      "flight": {
+        "number": null,
+        "iata": null,
+        "icao": null,
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "7C4465"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cloncurry",
+        "timezone": "Australia/Brisbane",
+        "iata": "CNJ",
+        "icao": "YCCY",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T12:00:00+00:00",
+        "estimated": "2026-07-07T12:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Townsville International",
+        "timezone": "Australia/Brisbane",
+        "iata": "TSV",
+        "icao": "YBTL",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T13:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Alliance Airlines",
+        "iata": "QQ",
+        "icao": "UTY"
+      },
+      "flight": {
+        "number": "3382",
+        "iata": "QQ3382",
+        "icao": "UTY3382",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T03:10:00+00:00",
+        "estimated": "2026-07-07T03:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T05:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "DHL Air",
+        "iata": "D0",
+        "icao": "DHK"
+      },
+      "flight": {
+        "number": "8288",
+        "iata": "D08288",
+        "icao": "DHK8288",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "3C542D"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T02:40:00+00:00",
+        "estimated": "2026-07-07T02:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "East Midlands",
+        "timezone": "Europe/London",
+        "iata": "EMA",
+        "icao": "EGNX",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T02:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "DHL Air",
+        "iata": "D0",
+        "icao": "DHK"
+      },
+      "flight": {
+        "number": "842",
+        "iata": "D0842",
+        "icao": "DHK842",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4067A4"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bedourie",
+        "timezone": "Australia/Brisbane",
+        "iata": "BEU",
+        "icao": "YBIE",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T10:00:00+00:00",
+        "estimated": "2026-07-07T10:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Birdsville",
+        "timezone": "Australia/Brisbane",
+        "iata": "BVI",
+        "icao": "YBDV",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T10:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Rex",
+        "iata": "ZL",
+        "icao": "RXA"
+      },
+      "flight": {
+        "number": "5661",
+        "iata": "ZL5661",
+        "icao": "RXA5661",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "7C80FF"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": "1",
+        "gate": "1",
+        "delay": null,
+        "scheduled": "2026-07-07T07:00:00+00:00",
+        "estimated": "2026-07-07T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "08",
+        "scheduled": "2026-07-07T09:50:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Virgin Atlantic",
+        "iata": "VS",
+        "icao": "VIR"
+      },
+      "flight": {
+        "number": "8382",
+        "iata": "VS8382",
+        "icao": "VIR8382",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "844",
+          "flight_iata": "6e844",
+          "flight_icao": "igo844"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80183B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": "1",
+        "gate": "1",
+        "delay": null,
+        "scheduled": "2026-07-07T07:00:00+00:00",
+        "estimated": "2026-07-07T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "08",
+        "scheduled": "2026-07-07T09:50:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "5045",
+        "iata": "QF5045",
+        "icao": "QFA5045",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "844",
+          "flight_iata": "6e844",
+          "flight_icao": "igo844"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80183B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": "1",
+        "gate": "1",
+        "delay": null,
+        "scheduled": "2026-07-07T07:00:00+00:00",
+        "estimated": "2026-07-07T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Indira Gandhi International",
+        "timezone": "Asia/Kolkata",
+        "iata": "DEL",
+        "icao": "VIDP",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "08",
+        "scheduled": "2026-07-07T09:50:00+00:00",
+        "delay": 15,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Japan Airlines",
+        "iata": "JL",
+        "icao": "JTL"
+      },
+      "flight": {
+        "number": "5286",
+        "iata": "JL5286",
+        "icao": "JTL5286",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "844",
+          "flight_iata": "6e844",
+          "flight_icao": "igo844"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "80183B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": "1",
+        "gate": "25",
+        "delay": null,
+        "scheduled": "2026-07-07T06:55:00+00:00",
+        "estimated": "2026-07-07T06:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Civil",
+        "timezone": "Asia/Kolkata",
+        "iata": "TRZ",
+        "icao": "VOTR",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:05:00+00:00",
+        "delay": 5,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Malaysia Airlines",
+        "iata": "MH",
+        "icao": "MAS"
+      },
+      "flight": {
+        "number": "5571",
+        "iata": "MH5571",
+        "icao": "MAS5571",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "7236",
+          "flight_iata": "6e7236",
+          "flight_icao": "igo7236"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "800C65"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": "1",
+        "gate": "25",
+        "delay": null,
+        "scheduled": "2026-07-07T06:55:00+00:00",
+        "estimated": "2026-07-07T06:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Civil",
+        "timezone": "Asia/Kolkata",
+        "iata": "TRZ",
+        "icao": "VOTR",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:05:00+00:00",
+        "delay": 5,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Japan Airlines",
+        "iata": "JL",
+        "icao": "JTL"
+      },
+      "flight": {
+        "number": "8453",
+        "iata": "JL8453",
+        "icao": "JTL8453",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "7236",
+          "flight_iata": "6e7236",
+          "flight_icao": "igo7236"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "800C65"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": "1",
+        "gate": "25",
+        "delay": null,
+        "scheduled": "2026-07-07T06:55:00+00:00",
+        "estimated": "2026-07-07T06:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Civil",
+        "timezone": "Asia/Kolkata",
+        "iata": "TRZ",
+        "icao": "VOTR",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:05:00+00:00",
+        "delay": 5,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "6493",
+        "iata": "AF6493",
+        "icao": "AFR6493",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "7236",
+          "flight_iata": "6e7236",
+          "flight_icao": "igo7236"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "800C65"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": "1",
+        "gate": "23",
+        "delay": null,
+        "scheduled": "2026-07-07T06:50:00+00:00",
+        "estimated": "2026-07-07T06:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Vijayawada",
+        "timezone": "Asia/Kolkata",
+        "iata": "VGA",
+        "icao": "VOBZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:20:00+00:00",
+        "delay": 10,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "6476",
+        "iata": "AF6476",
+        "icao": "AFR6476",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "7204",
+          "flight_iata": "6e7204",
+          "flight_icao": "igo7204"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "801414"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": "2",
+        "gate": "C1",
+        "delay": null,
+        "scheduled": "2026-07-07T06:50:00+00:00",
+        "estimated": "2026-07-07T06:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "5",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T13:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Finnair",
+        "iata": "AY",
+        "icao": "FIN"
+      },
+      "flight": {
+        "number": "6596",
+        "iata": "AY6596",
+        "icao": "FIN6596",
+        "codeshared": {
+          "airline_name": "british airways",
+          "airline_iata": "ba",
+          "airline_icao": "baw",
+          "flight_number": "118",
+          "flight_iata": "ba118",
+          "flight_icao": "baw118"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "40688F"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Bangalore International Airport",
+        "timezone": "Asia/Kolkata",
+        "iata": "BLR",
+        "icao": "VOBL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T00:25:00+00:00",
+        "estimated": "2026-07-07T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T02:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Blue Dart Aviation",
+        "iata": "BZ",
+        "icao": "BDA"
+      },
+      "flight": {
+        "number": "102",
+        "iata": "BZ102",
+        "icao": "BDA102",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "800446"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T07:00:00+00:00",
+        "estimated": "2026-07-07T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Zia International",
+        "timezone": "Asia/Dhaka",
+        "iata": "DAC",
+        "icao": "VGHS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "K-Mile Air",
+        "iata": "8K",
+        "icao": "KMI"
+      },
+      "flight": {
+        "number": "713",
+        "iata": "8K713",
+        "icao": "KMI713",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "882DA1"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": "A8",
+        "delay": null,
+        "scheduled": "2026-07-07T07:00:00+00:00",
+        "estimated": "2026-07-07T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sukhothai",
+        "timezone": "Asia/Bangkok",
+        "iata": "THS",
+        "icao": "VTPO",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+      },
+      "flight": {
+        "number": "7547",
+        "iata": "TK7547",
+        "icao": "THY7547",
+        "codeshared": {
+          "airline_name": "bangkok airways",
+          "airline_iata": "pg",
+          "airline_icao": "bkp",
+          "flight_number": "211",
+          "flight_iata": "pg211",
+          "flight_icao": "bkp211"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": "A8",
+        "delay": null,
+        "scheduled": "2026-07-07T07:00:00+00:00",
+        "estimated": "2026-07-07T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sukhothai",
+        "timezone": "Asia/Bangkok",
+        "iata": "THS",
+        "icao": "VTPO",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T08:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Thai Airways",
+        "iata": "TG",
+        "icao": "THA"
+      },
+      "flight": {
+        "number": "5672",
+        "iata": "TG5672",
+        "icao": "THA5672",
+        "codeshared": {
+          "airline_name": "bangkok airways",
+          "airline_iata": "pg",
+          "airline_icao": "bkp",
+          "flight_number": "211",
+          "flight_iata": "pg211",
+          "flight_icao": "bkp211"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hazret Sultan International Airport",
+        "timezone": null,
+        "iata": "HSA",
+        "icao": "UAIT",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T00:35:00+00:00",
+        "estimated": "2026-07-07T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Almaty",
+        "timezone": "Asia/Almaty",
+        "iata": "ALA",
+        "icao": "UAAA",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T02:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "FlyArystan",
+        "iata": "FS",
+        "icao": "AYN"
+      },
+      "flight": {
+        "number": "7162",
+        "iata": "FS7162",
+        "icao": "AYN7162",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "4CAECD"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Taupo",
+        "timezone": "Pacific/Auckland",
+        "iata": "TUO",
+        "icao": "NZAP",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T10:05:00+00:00",
+        "estimated": "2026-07-07T10:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "43",
+        "baggage": "3",
+        "scheduled": "2026-07-07T11:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air China",
+        "iata": "CA",
+        "icao": "CCA"
+      },
+      "flight": {
+        "number": "5964",
+        "iata": "CA5964",
+        "icao": "CCA5964",
+        "codeshared": {
+          "airline_name": "air new zealand",
+          "airline_iata": "nz",
+          "airline_icao": "anz",
+          "flight_number": "5092",
+          "flight_iata": "nz5092",
+          "flight_icao": "anz5092"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C81A91"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "31",
+        "delay": null,
+        "scheduled": "2026-07-07T14:00:00+00:00",
+        "estimated": "2026-07-07T14:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D19",
+        "baggage": null,
+        "scheduled": "2026-07-07T15:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "547",
+        "iata": "NZ547",
+        "icao": "ANZ547",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C82089"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "I",
+        "gate": "9",
+        "delay": null,
+        "scheduled": "2026-07-07T14:00:00+00:00",
+        "estimated": "2026-07-07T14:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nadi International",
+        "timezone": "Pacific/Fiji",
+        "iata": "NAN",
+        "icao": "NFFN",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T17:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Fiji Airways",
+        "iata": "FJ",
+        "icao": "FJI"
+      },
+      "flight": {
+        "number": "410",
+        "iata": "FJ410",
+        "icao": "FJI410",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C8801A"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "49",
+        "delay": null,
+        "scheduled": "2026-07-07T13:55:00+00:00",
+        "estimated": "2026-07-07T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "New Plymouth",
+        "timezone": "Pacific/Auckland",
+        "iata": "NPL",
+        "icao": "NZNP",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T14:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "5041",
+        "iata": "NZ5041",
+        "icao": "ANZ5041",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C827F1"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "I",
+        "gate": "6",
+        "delay": null,
+        "scheduled": "2026-07-07T13:40:00+00:00",
+        "estimated": "2026-07-07T13:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Melbourne - Tullamarine Airport",
+        "timezone": "Australia/Melbourne",
+        "iata": "MEL",
+        "icao": "YMML",
+        "terminal": "2",
+        "gate": "2",
+        "baggage": "8",
+        "scheduled": "2026-07-07T15:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "154",
+        "iata": "QF154",
+        "icao": "QFA154",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "50",
+        "delay": null,
+        "scheduled": "2026-07-07T13:40:00+00:00",
+        "estimated": "2026-07-07T13:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Gisborne",
+        "timezone": "Pacific/Auckland",
+        "iata": "GIS",
+        "icao": "NZGS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T14:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "5167",
+        "iata": "NZ5167",
+        "icao": "ANZ5167",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "48",
+        "delay": null,
+        "scheduled": "2026-07-07T13:35:00+00:00",
+        "estimated": "2026-07-07T13:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Palmerston North",
+        "timezone": "Pacific/Auckland",
+        "iata": "PMR",
+        "icao": "NZPM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T14:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "5113",
+        "iata": "NZ5113",
+        "icao": "ANZ5113",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C82B08"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "I",
+        "gate": "3",
+        "delay": null,
+        "scheduled": "2026-07-07T13:25:00+00:00",
+        "estimated": "2026-07-07T13:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sydney Kingsford Smith Airport",
+        "timezone": "Australia/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": "1",
+        "gate": "31",
+        "baggage": "5",
+        "scheduled": "2026-07-07T15:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "144",
+        "iata": "QF144",
+        "icao": "QFA144",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "I",
+        "gate": "18",
+        "delay": null,
+        "scheduled": "2026-07-07T13:25:00+00:00",
+        "estimated": "2026-07-07T13:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T21:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cathay Pacific",
+        "iata": "CX",
+        "icao": "CPA"
+      },
+      "flight": {
+        "number": "198",
+        "iata": "CX198",
+        "icao": "CPA198",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "35",
+        "delay": null,
+        "scheduled": "2026-07-07T13:20:00+00:00",
+        "estimated": "2026-07-07T13:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hawkes Bay",
+        "timezone": "Pacific/Auckland",
+        "iata": "NPE",
+        "icao": "NZNR",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T14:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "5021",
+        "iata": "NZ5021",
+        "icao": "ANZ5021",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C822EC"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "21",
+        "delay": null,
+        "scheduled": "2026-07-07T13:15:00+00:00",
+        "estimated": "2026-07-07T13:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D21",
+        "baggage": null,
+        "scheduled": "2026-07-07T14:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Jetstar",
+        "iata": "JQ",
+        "icao": "JST"
+      },
+      "flight": {
+        "number": "233",
+        "iata": "JQ233",
+        "icao": "JST233",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "30",
+        "delay": null,
+        "scheduled": "2026-07-07T13:10:00+00:00",
+        "estimated": "2026-07-07T13:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Wellington International",
+        "timezone": "Pacific/Auckland",
+        "iata": "WLG",
+        "icao": "NZWN",
+        "terminal": null,
+        "gate": "13",
+        "baggage": null,
+        "scheduled": "2026-07-07T14:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "429",
+        "iata": "NZ429",
+        "icao": "ANZ429",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "C81D9D"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Abha",
+        "timezone": "Asia/Riyadh",
+        "iata": "AHB",
+        "icao": "OEAB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T05:00:00+00:00",
+        "estimated": "2026-07-07T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "King Khaled International",
+        "timezone": "Asia/Riyadh",
+        "iata": "RUH",
+        "icao": "OERK",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T06:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Saudia",
+        "iata": "SV",
+        "icao": "SVA"
+      },
+      "flight": {
+        "number": "1666",
+        "iata": "SV1666",
+        "icao": "SVA1666",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "710115"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-07-07",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Abha",
+        "timezone": "Asia/Riyadh",
+        "iata": "AHB",
+        "icao": "OEAB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2026-07-07T05:00:00+00:00",
+        "estimated": "2026-07-07T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "King Khaled International",
+        "timezone": "Asia/Riyadh",
+        "iata": "RUH",
+        "icao": "OERK",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2026-07-07T06:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "3969",
+        "iata": "AF3969",
+        "icao": "AFR3969",
+        "codeshared": {
+          "airline_name": "saudia",
+          "airline_iata": "sv",
+          "airline_icao": "sva",
+          "flight_number": "1666",
+          "flight_iata": "sv1666",
+          "flight_icao": "sva1666"
+        }
+      },
+      "aircraft": {
+        "registration": null,
+        "iata": null,
+        "icao": null,
+        "icao24": "710115"
+      },
+      "live": null
+    }
+  ]
+}

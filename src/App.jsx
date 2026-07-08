@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
+import mockData from "./mockFlight.json"; // TEMP: local data while API quota is maxed out
 
-const URL = 'https://api.aviationstack.com/v1/flights?access_key=f0324c0ca8d6f1d762b78f2a88221e45';
+//const URL = 'https://api.aviationstack.com/v1/flights?access_key=f0324c0ca8d6f1d762b78f2a88221e45';
 
 function App() {
   const [flights, setFlights] = useState([]);
@@ -9,27 +10,26 @@ function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState('all');
 
-  
-
-
   useEffect(() => {
     async function fetchFlights() {
       try {
-
-        // TODO: 1. build the URL using import.meta.env.VITE_AVIATIONSTACK_KEY
+        // ===== REAL API CALL — commented out until monthly quota resets =====
         // const url = `${URL}&access_key=${import.meta.env.VITE_AVIATIONSTACK_KEY}`;
-        // TODO: 2. await fetch(url)
-        const response = await fetch(URL);
-        // TODO: 3. await response.json()
-        const data = await response.json();
-        // TODO: 4. setFlights(...) — look at the JSON shape, where do the actual flight objects live?
+        // const response = await fetch(url);
+        // const data = await response.json();
+
+        // ===== TEMP: using local mock data instead =====
+        const data = mockData;
+
+        if (!data.data) {
+          throw new Error('No flight data available');
+        }
+
         setFlights(data.data);
         console.log(data.data);
       } catch (err) {
-        // TODO: setError(...)
         setError(err.message);
       } finally {
-        // TODO: setLoading(false)
         setLoading(false);
       }
     }
@@ -45,7 +45,7 @@ function App() {
   const totalDelay = delayedFlights.reduce((sum, flight) => {
     return sum + flight.departure.delay;
   }, 0);
-  
+
   const avgDelay = delayedFlights.length > 0 ? totalDelay / delayedFlights.length : 0;
 
   const filteredFlights = flights.filter(flight => {
@@ -55,7 +55,6 @@ function App() {
     const matchesStatus = statusFilter === 'all' || flight.flight_status === statusFilter;
     return matchesSearch && matchesStatus;
   });
-    
 
   return (
     <div>
@@ -101,7 +100,9 @@ function App() {
 
           {/* Flight List Rendering */}
           {filteredFlights.map((flight) => (
-            <div key={flight.flight.iata}>
+            <div
+              key={flight.flight.iata ?? `${flight.departure.iata}-${flight.arrival.iata}-${flight.departure.scheduled}`}
+            >
               <p>{flight.airline.name} — Flight {flight.flight.number}</p>
               <p>{flight.departure.iata} → {flight.arrival.iata}</p>
               <p>Status: {flight.flight_status}</p>
