@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import mockData from "./mockFlight.json"; // TEMP: local data while API quota is maxed out
+import './App.css';
 
 //const URL = 'https://api.aviationstack.com/v1/flights?access_key=f0324c0ca8d6f1d762b78f2a88221e45';
 
@@ -56,6 +57,16 @@ function App() {
     return matchesSearch && matchesStatus;
   });
 
+  function formatTime(isoString) {
+    if (!isoString) return '—';
+    const d = new Date(isoString);
+    const mm = String(d.getMonth() + 1).padStart(2, '0');
+    const dd = String(d.getDate()).padStart(2, '0');
+    const hh = String(d.getHours()).padStart(2, '0');
+    const min = String(d.getMinutes()).padStart(2, '0');
+    return `${mm}-${dd} ${hh}:${min}`;
+  }
+
   return (
     <div>
       {loading && <p>Loading flights...</p>}
@@ -83,31 +94,50 @@ function App() {
             </div>
           </div>
 
-          <input
-            type="text"
-            placeholder="Search by airport name..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-          />
+          <div className="controls">
+            <input
+              type="text"
+              placeholder="Search by airport (e.g. Hong Kong)"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
 
-          <select value={statusFilter} onChange={(e) => setStatusFilter(e.target.value)}>
-            <option value="all">All Statuses</option>
-            <option value="active">Active</option>
-            <option value="scheduled">Scheduled</option>
-            <option value="landed">Landed</option>
-            <option value="cancelled">Cancelled</option>
-          </select>
+            <select value={statusFilter} onChange={(e) => setStatusFilter(e.target.value)}>
+              <option value="all">All statuses</option>
+              <option value="active">Active</option>
+              <option value="scheduled">Scheduled</option>
+              <option value="landed">Landed</option>
+              <option value="cancelled">Cancelled</option>
+            </select>
+          </div>
 
-          {/* Flight List Rendering */}
-          {filteredFlights.map((flight) => (
-            <div
-              key={flight.flight.iata ?? `${flight.departure.iata}-${flight.arrival.iata}-${flight.departure.scheduled}`}
-            >
-              <p>{flight.airline.name} — Flight {flight.flight.number}</p>
-              <p>{flight.departure.iata} → {flight.arrival.iata}</p>
-              <p>Status: {flight.flight_status}</p>
+          {/* Flight List Table */}
+          <div className="flight-table">
+            <div className="flight-row flight-header">
+              <span>Airline</span>
+              <span>Flight</span>
+              <span>Route</span>
+              <span>Scheduled</span>
+              <span>Status</span>
             </div>
-          ))}
+
+            {filteredFlights.map((flight) => (
+              <div
+                className="flight-row"
+                key={flight.flight.iata ?? `${flight.departure.iata}-${flight.arrival.iata}-${flight.departure.scheduled}`}
+              >
+                <span>{flight.airline.name}</span>
+                <span>{flight.flight.iata}</span>
+                <span className="route">{flight.departure.iata} → {flight.arrival.iata}</span>
+                <span>{formatTime(flight.departure.scheduled)}</span>
+                <span>
+                  <span className={`badge badge-${flight.flight_status}`}>
+                    {flight.flight_status}
+                  </span>
+                </span>
+              </div>
+            ))}
+          </div>
         </div>
       )}
     </div>
