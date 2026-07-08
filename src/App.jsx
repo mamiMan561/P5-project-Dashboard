@@ -6,6 +6,10 @@ function App() {
   const [flights, setFlights] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [statusFilter, setStatusFilter] = useState('all');
+
+  
 
 
   useEffect(() => {
@@ -44,6 +48,15 @@ function App() {
   
   const avgDelay = delayedFlights.length > 0 ? totalDelay / delayedFlights.length : 0;
 
+  const filteredFlights = flights.filter(flight => {
+    const matchesSearch =
+      flight.departure.airport?.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      flight.arrival.airport?.toLowerCase().includes(searchQuery.toLowerCase());
+    const matchesStatus = statusFilter === 'all' || flight.flight_status === statusFilter;
+    return matchesSearch && matchesStatus;
+  });
+    
+
   return (
     <div>
       {loading && <p>Loading flights...</p>}
@@ -71,8 +84,23 @@ function App() {
             </div>
           </div>
 
+          <input
+            type="text"
+            placeholder="Search by airport name..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
+
+          <select value={statusFilter} onChange={(e) => setStatusFilter(e.target.value)}>
+            <option value="all">All Statuses</option>
+            <option value="active">Active</option>
+            <option value="scheduled">Scheduled</option>
+            <option value="landed">Landed</option>
+            <option value="cancelled">Cancelled</option>
+          </select>
+
           {/* Flight List Rendering */}
-          {flights.map((flight) => (
+          {filteredFlights.map((flight) => (
             <div key={flight.flight.iata}>
               <p>{flight.airline.name} — Flight {flight.flight.number}</p>
               <p>{flight.departure.iata} → {flight.arrival.iata}</p>
