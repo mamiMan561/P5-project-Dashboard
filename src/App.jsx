@@ -5,9 +5,9 @@ import Dashboard from './components/Dashboard';
 import FlightDetail from './components/FlightDetail';
 import './App.css';
 
-import mockData from './mockFlight.json'; // fallback if the API quota is maxed out
+// import mockData from './mockFlight.json'; // fallback if the API quota is maxed out
 
-// const URL = 'https://api.aviationstack.com/v1/flights?access_key=f0324c0ca8d6f1d762b78f2a88221e45';
+const URL = 'https://api.aviationstack.com/v1/flights?access_key=f0324c0ca8d6f1d762b78f2a88221e45';
 // const BASE_URL = 'https://api.aviationstack.com/v1/flights';
 
 function App() {
@@ -23,11 +23,11 @@ function App() {
       try {
         // const url = `${BASE_URL}?access_key=${import.meta.env.VITE_AVIATIONSTACK_KEY}`;
         // const response = await fetch(url);
-        // const response = await fetch(URL);
-        // const data = await response.json();
+        const response = await fetch(URL);
+        const data = await response.json();
 
         // ===== TEMP: using local mock data instead =====
-        const data = mockData;
+        // const data = mockData;
 
 
         // ===== Quota-exhausted fallback: comment out the two lines above =====
